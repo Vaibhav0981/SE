@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class twosum {
 
     static Scanner sc = new Scanner(System.in);
 

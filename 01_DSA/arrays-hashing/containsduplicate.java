@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class conta {
+public class containsduplicate{
 
     static Scanner sc = new Scanner(System.in);
 

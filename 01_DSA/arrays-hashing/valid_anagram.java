@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class valid_ {
+public class valid_anagram {
 
     static Scanner sc = new Scanner(System.in);
 
